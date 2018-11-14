@@ -1,0 +1,280 @@
+*,
+*::before,
+*::after {
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing : border-box ;
+}
+.head-div {
+    width : fit-content ;
+    height : 67px ;
+    margin : 0 auto ;
+}
+
+header {
+    font-family : 'Georgia', Times, Times New Roman, serif ;
+    color :white ;
+
+}
+
+.alyssa-h2 {
+    position : relative ;
+    float :left ;
+    left : -110px ;
+    width : 240px;
+    padding : 20px ;
+    background-color : #4aaaa5 ;
+    text-align: center ;
+}
+
+.menu-list {
+    position: relative ;
+    right : -224px ;
+    padding : 20px ;
+    float : right ;
+    width : 500px;
+    align-content : center ;
+    text-decoration : none ;
+    
+}
+.about:hover {
+    text-decoration: underline ;
+}
+
+.about {
+    text-decoration : none ;
+    margin-right : 30px;
+    display :block;
+    float : right ;
+    color : #777777 ;
+    
+}
+
+.portfolio:hover {
+    text-decoration : underline ;
+}
+.portfolio {
+    text-decoration : none ;
+    margin-right : 30px;
+    display :block;
+    float : right ;
+    color : #777777 ;
+}
+    
+
+.contact:hover {
+    text-decoration : underline ;
+}
+.contact {
+    text-decoration : none ;
+    margin-right : 100px;
+    display :block;
+    float : right ;
+    color : #777777 ;
+}
+
+
+.main-section {
+    clear : both ; 
+    height : 900px ;
+    border-top :solid #dddddd 1px ;
+    background-image: url(qbkls.png) ;
+    
+}
+.portfolio-1 {
+    position: relative ;
+    margin : 0 auto ;
+    margin-top : 40px ;
+    height : 800px ;
+    width : 960px ;
+    background-color : white ;
+
+
+}
+.portfolio-h2 {
+    position: relative;
+    color : #4aaaa5 ;
+    margin-left : 30px;
+    margin-top : 40px ;
+    padding : 15px ;
+}
+.section-1 {
+    margin :0 auto ;
+    height : 200px ;
+    width : 920px;
+    background-color : white ;
+    border-top : solid #dddddd 4px ;
+}
+.text {
+    margin-top : 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    color : #777777 ;
+}
+
+.photo-size {
+    width : 300px;
+    padding : 10px;
+
+}
+.first {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.one {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.second {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.two {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.third {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.three {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.fourth {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.four {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.fifth {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.five {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.sixth {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.six {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.seventh {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.seven {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.eighth {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.eight {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+.ninth {
+    margin-top : 20px ;
+    margin-left : 5px ;
+    width : fit-content;
+    float : left ;
+}
+.nine {
+    position: relative;
+    margin :auto ;
+    margin-top : -50px ;
+    width : 280px ;
+    padding :5px;
+    background-color : #4aaaa5;
+    color : white ;
+    text-align: center ;
+}
+
+footer {
+    text-align: center ;
+    background-color :#666666;
+    border-top :solid #4aaaa5 10px ;
+    font-size :10px;
+    color : white ;
+    padding : 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+}
